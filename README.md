@@ -1,11 +1,9 @@
 # git-github-presentetion
----
 # working with branches
 + what is branch master 
 + what is head 
 + some branching and concept of branch
 + git checkout and switch
----
 
 # vscode source control
 + what is it
@@ -19,14 +17,13 @@
 + merge conflicts
 + resolving merge conflicts
 + deleting branches
----
+
 
 # stashing
 + what is stashing
 + why we need stash
 + stash save
 + stash list, pop, drop, apply, -u, clear
----
 
 # undoing
 + power of git checkout
@@ -36,7 +33,6 @@
 + git resotre
 + git reset hard and soft
 + git revert and its benefits
----
 
 # github basic
 + some github basics how clouds works
@@ -44,7 +40,6 @@
 + remote
 + pushing
 + workflow of intracting with git and github
----
 
 # fetching and pulling
 + what is remote tracking branch
@@ -57,13 +52,12 @@
 + diverion branch and merge conflicts
 + fetch merge and pull
 + working with both and demo some merge conflits on diversion branch
----
 
 # some other things on github
 + public vs private
 + what is collaboration
 + github pages
----
+
 
 # github collaborations
 + workflow of centralized branching
@@ -72,7 +66,6 @@
 + why pull request
 + some demo pull requests
 + forking
----
 
 # rebasing
 + what is rebasing

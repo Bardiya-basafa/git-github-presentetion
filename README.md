@@ -17,6 +17,7 @@
     cd ./.git
     cat HEAD. cat refs/heads
 ```
+
 # vscode source control
 + what is it
 + some features of it
@@ -34,8 +35,7 @@
     git merge main (fast forwad)
     git merge main (merge commit : merge conflicts)
     git branch -d <branch_name>
-    git brancg -D(force delte) <branch_name>
-    
+    git brancg -D(force delte) <branch_name> 
 ```
 
 
@@ -117,7 +117,6 @@ git pull (with merge conflict)
 git fetch origin <branch> (wtih merge conflict)
 git merge <branch> <origin/branch> (merge conflict)
 (diversion branching)
-
 ```
 
 # some other things on github

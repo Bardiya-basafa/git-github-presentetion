@@ -1,9 +1,16 @@
 # git-github-presentetion
 # working with branches
 + what is branch master 
-+ what is head 
++ what is head
 + some branching and concept of branch
 + git checkout and switch
+
+    git branch
+    git branch <branch_name>
+    git switch <branch_name>
+    git switch -c <branch_name>
+    git branch -v(verbose : more information on branch)
+    git checkout <branch_name>
 
 # vscode source control
 + what is it

@@ -6,16 +6,16 @@
 + detached head
 + git checkout and switch
 ```
-    git branch
-    git branch <branch_name>
-    git switch <branch_name>
-    git switch -c <branch_name>
-    git branch -v(verbose : more information on branch)
-    git switch - (back to last branch)
-    git checkout <commit_hash>
-    git checkout <branch_name>
-    cd ./.git
-    cat HEAD. cat refs/heads
+git branch
+git branch <branch_name>
+git switch <branch_name>
+git switch -c <branch_name>
+git branch -v(verbose : more information on branch)
+git switch - (back to last branch)
+git checkout <commit_hash>
+git checkout <branch_name>
+cd ./.git
+cat HEAD. cat refs/heads
 ```
 
 # vscode source control
@@ -31,11 +31,11 @@
 + resolving merge conflicts
 + deleting branches
 ```
-    git switch <branch_name>
-    git merge main (fast forwad)
-    git merge main (merge commit : merge conflicts)
-    git branch -d <branch_name>
-    git brancg -D(force delte) <branch_name> 
+git switch <branch_name>
+git merge main (fast forwad)
+git merge main (merge commit : merge conflicts)
+git branch -d <branch_name>
+git brancg -D(force delte) <branch_name> 
 ```
 
 
